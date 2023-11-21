@@ -1,4 +1,4 @@
 @extends('layout.app')
 @section('appContents')
-<h4>Home</h4>
+<h4>Books</h4>
 @endsection
