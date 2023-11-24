@@ -1,8 +1,9 @@
 @extends('layout.app')
 @section('appContents')
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-<div class="container p-8 mx-auto xl:px-0 flex flex-wrap ">
-    <div class="flex items-center w-full lg:w-1/2">
+<div class="min-h-screen bg-gray-100">
+<div class="min-h-screen container p-1 mx-auto xl:px-0 flex flex-wrap bg-gray-100 w-full ">
+    <div class="flex items-center w-full lg:w-1/2 ">
         <div class="max-w-2xl mb-8">
             <h1 class="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight ">Bill Gates: A Visionary Pioneer in Technology and Philanthropy</h1>
             <p class="py-5 text-xl leading-normal text-gray-700 lg:text-xl xl:text-2xl ">Bill Gates, born on October 28, 1955, is a name synonymous with technological innovation, entrepreneurship, and philanthropy. Co-founder of Microsoft Corporation, Gates has left an indelible mark on the world, not only through his contributions to the tech industry but also through his commitment to addressing global challenges.
@@ -29,6 +30,7 @@
             </p>
         </div>
     </DIV>
+</div>
 </div>
 
 @endsection
