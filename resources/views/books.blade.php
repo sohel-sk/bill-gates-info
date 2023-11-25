@@ -101,6 +101,7 @@
       href="https://unpkg.com/@material-tailwind/html@latest/styles/material-tailwind.css"
     />
 </div>
+
 <div class="flex min-h-screen items-center justify-center">
     <div class="relative flex w-full max-w-[48rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
       <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-x1 rounded-lg bg-white bg-clip-border text-gray-700">
